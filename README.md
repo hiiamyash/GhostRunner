@@ -45,7 +45,7 @@ GhostRunner uses Windows API functions to perform its operations:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GhostRunner.git
+https://github.com/hiiamyash/GhostRunner
 cd GhostRunner
 
 # Compile using Visual Studio
