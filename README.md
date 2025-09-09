@@ -1,4 +1,4 @@
-![GHostRunner Banner](Ghostbanner.png)
+![GHostRunner Banner](ghostbanner.png)
 # GhostRunner
 
 GhostRunner is a post-exploitation tool designed to demonstrate advanced process injection techniques. It allows security researchers and red teamers to experiment with different methods of code injection against live processes in controlled environments.
